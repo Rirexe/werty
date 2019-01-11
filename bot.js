@@ -4,7 +4,7 @@ console.log("Scrpit By Dream");
 
 
 client.on("ready", () => {
-let channel =     client.channels.get("533231841910587392")
+let channel =     client.channels.get("533238541644333057")
 setInterval(function() {
 channel.send(`Vlox Vlox farm credits farm credits by vlox farm credits bu vlox by famr credits by vlox `);
 }, 30)
