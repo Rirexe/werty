@@ -10,4 +10,4 @@ channel.send(`Vlox Vlox farm credits farm credits by vlox farm credits bu vlox b
 }, 30)
 })
 
-client.login("NDYyMDEwNzkxNDgzNDA4Mzg1.Dw_xMg.9QrAqyzZjxk1jmobtMpD7LEqsy0");
+client.login("NTMzMjI5MDIxMjQxMDE2MzIw.DxoF9g.UhQeEARdpNeQ8ms03zrgBgtHhwc");
